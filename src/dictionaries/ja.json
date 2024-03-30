@@ -10,24 +10,7 @@
     "personalWebsiteUrl": "https://0xpacy.arweave.dev/",
     "contact": {
       "email": "",
-      "tel": "",
-      "social": [
-        {
-          "name": "GitHub",
-          "url": "https://github.com/lilpacy",
-          "icon": "GitHubIcon"
-        },
-        {
-          "name": "LinkedIn",
-          "url": "https://www.linkedin.com/in/tomohiro-seto-00740a11a/",
-          "icon": "LinkedInIcon"
-        },
-        {
-          "name": "X",
-          "url": "https://x.com/0xpacy",
-          "icon": "XIcon"
-        }
-      ]
+      "tel": ""
     },
     "education": [
       {
