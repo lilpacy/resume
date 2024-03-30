@@ -6,7 +6,7 @@ import { Metadata } from "next";
 import { Section } from "@/components/ui/section";
 import { GlobeIcon, MailIcon, PhoneIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { RESUME_DATA as _RESUME_DATA } from "@/data/resume-data";
+import { RESUME_DATA as _RESUME_DATA } from "@/constants";
 import { ProjectCard } from "@/components/project-card";
 import { Language, getDictionary } from "./dictionaries";
 
