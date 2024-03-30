@@ -1,0 +1,121 @@
+{
+  "RESUME_DATA": {
+    "name": "Pacy",
+    "initials": "LP",
+    "location": "Tokyo, Japan",
+    "locationLink": "https://www.google.com/maps/place/Tokyo",
+    "about": "Full Stack Engineer",
+    "summary": "Supported myself through freelance work while studying at Kobe University. Later interned as a Ruby-focused full stack engineer at Donuts Bangkok branch. Joined Fringe81 Co., Ltd. as a new graduate engineer in 2019. Maintained and developed the frontend of an HRTech business using the pure functional language Elm. Moved to the advertising business in 2020, where I was responsible for the log aggregation infrastructure of an advertising delivery system, maintaining and developing the server-side/infrastructure with Scala. Joined CryptoGames.inc as a full stack engineer in June 2021, became the NFT business development lead in November of the same year, and was appointed CTO of the company in July 2022. Currently working on frontend development with Nuxt.js/Next.js, server-side development with TypeScript/Go/Python, and smart contract development with Solidity.",
+    "avatarUrl": "PixelPacy.src",
+    "personalWebsiteUrl": "https://0xpacy.arweave.dev/",
+    "contact": {
+      "email": "",
+      "tel": "",
+      "social": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/lilpacy",
+          "icon": "GitHubIcon"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tomohiro-seto-00740a11a/",
+          "icon": "LinkedInIcon"
+        },
+        {
+          "name": "X",
+          "url": "https://x.com/0xpacy",
+          "icon": "XIcon"
+        }
+      ]
+    },
+    "education": [
+      {
+        "school": "Kobe University Faculty of Economics",
+        "degree": "Bachelor of Economics",
+        "start": "2014",
+        "end": "2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Donuts Bangkok Branch",
+        "link": "URL of Donuts Bangkok Branch",
+        "badges": ["Intern"],
+        "title": "Full Stack Engineer",
+        "start": "2018",
+        "end": "2018",
+        "description": "Interned as a Ruby-focused full stack engineer"
+      },
+      {
+        "company": "Fringe81 Co., Ltd.",
+        "link": "https://fringe81.com",
+        "badges": [],
+        "title": "Frontend Engineer → Backend/Infrastructure Engineer",
+        "start": "2019",
+        "end": "2021",
+        "description": "Maintained and developed the frontend of an ARR billion yen scale HRTech business with Elm. After moving to the advertising business, I was responsible for the log aggregation infrastructure of an advertising delivery system with annual transactions of 1 billion yen, maintaining and developing the server-side/infrastructure with Scala"
+      },
+      {
+        "company": "CryptoGames.inc",
+        "link": "URL of CryptoGames.inc",
+        "badges": [],
+        "title": "Full Stack Engineer → NFT Business Development Lead → CTO",
+        "start": "2021",
+        "end": "Present",
+        "description": "Developed NFTStudio, TV broadcasting. Developed the first Dapp Staking GameFi on Astar, AstarFarm contract. Participated in the development of the Oasys chain from the early stages, launching OasysHub. Frontend development (Nuxt.js/Next.js), server-side development (TypeScript/Go/Python), smart contract development (Solidity)"
+      }
+    ],
+    "skills": [
+      "Ruby",
+      "Elm",
+      "Scala",
+      "Nuxt.js",
+      "Next.js",
+      "TypeScript",
+      "Go",
+      "Python",
+      "Solidity",
+      "AWS"
+    ],
+    "projects": [
+      {
+        "title": "AstarFarm",
+        "techStack": [
+          "Smart Contract Development Lead",
+          "Nuxt.js",
+          "JavaScript",
+          "Solidity"
+        ],
+        "description": "The first Dapp Staking contract-based Wrapper Dapp on Astar chain, a GameFi project with a TVL of 500 million yen. Featured on Debunk.",
+        "link": {
+          "label": "astarfarm.com",
+          "href": "https://astarfarm.com"
+        }
+      },
+      {
+        "title": "OasysHub",
+        "techStack": [
+          "Frontend Development Lead",
+          "Next.js",
+          "TypeScript",
+          "Solidity"
+        ],
+        "description": "Participated from the early stages in the development of Oasys, a blockchain specialized for games made in Japan, leading the development of the staking site frontend",
+        "link": {
+          "label": "hub.oasys.games",
+          "href": "https://hub.oasys.games"
+        }
+      },
+      {
+        "title": "MashiroAI NFT",
+        "techStack": ["Solo Developer", "Next.js", "TypeScript", "Solidity"],
+        "description": "In October 2022, at the start of the generative AI boom, developed a 1024-piece NFT project from scratch in two weeks using NovelAI. Released a collaboration NFT with Neo Tokyo Punks, Neo Tokyo Punks Memory, selling out all 2222 pieces.",
+        "link": {
+          "label": "mashiroai.xyz",
+          "href": "https://mashiroai.xyz"
+        }
+      }
+    ]
+  }
+}
