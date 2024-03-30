@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 
 import "./globals.css";
 import React from "react";
-import { Dictionary } from "./dictionaries";
+import { Language } from "./dictionaries";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -24,7 +24,7 @@ export async function generateStaticParams() {
 type Props = {
   children: React.ReactNode;
   params: {
-    lang: Dictionary;
+    lang: Language;
   };
 };
 

@@ -5,7 +5,7 @@ export const dictionaries = {
   en: () => import("@/dictionaries/en.json").then((module) => module.default),
 };
 
-export type Dictionary = keyof typeof dictionaries;
+export type Language = keyof typeof dictionaries;
 
 export const getDictionary = async (locale: keyof typeof dictionaries) =>
   dictionaries[locale]();

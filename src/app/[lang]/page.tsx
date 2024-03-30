@@ -8,11 +8,11 @@ import { GlobeIcon, MailIcon, PhoneIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RESUME_DATA as _RESUME_DATA } from "@/data/resume-data";
 import { ProjectCard } from "@/components/project-card";
-import { Dictionary, getDictionary } from "./dictionaries";
+import { Language, getDictionary } from "./dictionaries";
 
 type Props = {
   params: {
-    lang: Dictionary;
+    lang: Language;
   };
 };
 
@@ -28,9 +28,6 @@ export async function generateStaticParams() {
 export default async function Page({ params }: Props) {
   console.log({ params });
   const dict = await getDictionary(params.lang);
-  if (!("RESUME_DATA" in dict)) {
-    throw new Error("RESUME_DATA not found in dictionary");
-  }
   const { RESUME_DATA } = dict;
   return (
     <main className="container relative mx-auto scroll-my-12 overflow-auto p-4 print:p-12 md:p-16">
