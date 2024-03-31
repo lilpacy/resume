@@ -46,7 +46,7 @@
         "title": "Front-end Engineer → Back-end/Infrastructure Engineer",
         "start": "2019",
         "end": "2021",
-        "description": "Maintained and developed new features for an HRTech business front-end with ARR in the billions of yen using Elm. After transferring to the advertising business, took charge of the log aggregation infrastructure for a Docomo distribution system with an annual transaction volume of 1 billion yen, maintaining and developing new features in Scala for server-side/infrastructure."
+        "description": "Maintained and developed new features for an HRTech business front-end with ARR in the millions of dollors using Elm. After transferring to the advertising business, took charge of the log aggregation infrastructure for a Docomo distribution system with an annual transaction volume of tens of millions of dollors, maintaining and developing new features in Scala for server-side/infrastructure."
       },
       {
         "company": "CryptoGames.inc",
@@ -80,7 +80,7 @@
           "Solidity",
           "AWS"
         ],
-        "description": "The first Dapp Staking contract on the Astar chain, a Wrapper Dapp for a GameFi project with a TVL of 500 million yen. Featured on Debunk.",
+        "description": "The first Dapp Staking contract on the Astar chain, a Wrapper Dapp for a GameFi project with a TVL of 5 million dollor. Featured on Debunk.",
         "link": {
           "label": "astarfarm.com",
           "href": "https://astarfarm.com"
@@ -126,7 +126,7 @@
           "Foundry",
           "AWS"
         ],
-        "description": "Contract development for Buncha Inc. Wrapped the Oasys chain's Precompiled Staking contract in a DApp that awards lottery NFTs through staking. Reached a TVL of 200 million yen within 10 days of launch.",
+        "description": "Contract development for Buncha Inc. Wrapped the Oasys chain's Precompiled Staking contract in a DApp that awards lottery NFTs through staking. Reached a TVL of 2 million dollor within 10 days of launch.",
         "link": {
           "label": "oasjumbo.com",
           "href": "https://oasjumbo.com"
