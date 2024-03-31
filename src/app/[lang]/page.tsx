@@ -115,7 +115,7 @@ export default async function Page({ params }: Props) {
           </p>
         </Section>
         <Section>
-          <h2 className="text-xl font-bold">Work Experience</h2>
+          <h2 className="text-xl font-bold">Experience</h2>
           {dict.resume.work.map((work) => {
             return (
               <Card key={work.company}>

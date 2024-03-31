@@ -5,7 +5,7 @@
     "location": "Tokyo, Japan",
     "locationLink": "https://www.google.com/maps/place/Tokyo",
     "about": "Full Stack Engineer",
-    "summary": "Supported myself through freelance work while studying at Kobe University. Later interned as a Ruby-focused full stack engineer at Donuts Bangkok branch. Joined Fringe81 Co., Ltd. as a new graduate engineer in 2019. Maintained and developed the frontend of an HRTech business using the pure functional language Elm. Moved to the advertising business in 2020, where I was responsible for the log aggregation infrastructure of an advertising delivery system, maintaining and developing the server-side/infrastructure with Scala. Joined CryptoGames.inc as a full stack engineer in June 2021, became the NFT business development lead in November of the same year, and was appointed CTO of the company in July 2022. Currently working on frontend development with Nuxt.js/Next.js, server-side development with TypeScript/Go/Python, and smart contract development with Solidity.",
+    "summary": "Born in Kitakyushu, lived in Kansai and Thailand before moving to Tokyo. A fan of anime and Vtubers, and passionate about creating the future of subculture. Currently working on front-end development with Nuxt.js/Next.js, server-side development with TypeScript/Go/Python, and smart contract development with Solidity.",
     "avatarUrl": "PixelPacy.src",
     "personalWebsiteUrl": "https://0xpacy.arweave.dev/",
     "contact": {
@@ -14,7 +14,7 @@
     },
     "education": [
       {
-        "school": "Kobe University Faculty of Economics",
+        "school": "Kobe University, Faculty of Economics",
         "degree": "Bachelor of Economics",
         "start": "2014",
         "end": "2018"
@@ -22,31 +22,40 @@
     ],
     "work": [
       {
+        "company": "Kobe University",
+        "link": "https://www.kobe-u.ac.jp/en/",
+        "badges": ["Student"],
+        "title": "Faculty of Economics",
+        "start": "2014",
+        "end": "2018",
+        "description": "Specialized in economic growth theory in macroeconomics. Engaged in empirical analysis and statistical approaches using Python's scikit-learn alongside theoretical analysis."
+      },
+      {
         "company": "Donuts Bangkok Branch",
-        "link": "URL of Donuts Bangkok Branch",
+        "link": "http://donuts-bkk.com/",
         "badges": ["Intern"],
         "title": "Full Stack Engineer",
         "start": "2018",
         "end": "2018",
-        "description": "Interned as a Ruby-focused full stack engineer"
+        "description": "Interned as a full-stack engineer mainly using Ruby. Worked as the person in charge of front-end, back-end, and infrastructure for web applications."
       },
       {
         "company": "Fringe81 Co., Ltd.",
         "link": "https://fringe81.com",
         "badges": [],
-        "title": "Frontend Engineer → Backend/Infrastructure Engineer",
+        "title": "Front-end Engineer → Back-end/Infrastructure Engineer",
         "start": "2019",
         "end": "2021",
-        "description": "Maintained and developed the frontend of an ARR billion yen scale HRTech business with Elm. After moving to the advertising business, I was responsible for the log aggregation infrastructure of an advertising delivery system with annual transactions of 1 billion yen, maintaining and developing the server-side/infrastructure with Scala"
+        "description": "Maintained and developed new features for an HRTech business front-end with ARR in the billions of yen using Elm. After transferring to the advertising business, took charge of the log aggregation infrastructure for a Docomo distribution system with an annual transaction volume of 1 billion yen, maintaining and developing new features in Scala for server-side/infrastructure."
       },
       {
         "company": "CryptoGames.inc",
-        "link": "URL of CryptoGames.inc",
+        "link": "CryptoGames.inc's URL",
         "badges": [],
         "title": "Full Stack Engineer → NFT Business Development Lead → CTO",
         "start": "2021",
         "end": "Present",
-        "description": "Developed NFTStudio, TV broadcasting. Developed the first Dapp Staking GameFi on Astar, AstarFarm contract. Participated in the development of the Oasys chain from the early stages, launching OasysHub. Frontend development (Nuxt.js/Next.js), server-side development (TypeScript/Go/Python), smart contract development (Solidity)"
+        "description": "Developed NFTStudio and broadcasted by TV. Developed GameFi using Astar's first Dapp Staking, AstarFarm contract. Participated in the development of the Oasys chain from the early stages and launched OasysHub. Later, as CTO, handled crisis management, long-term strategy planning, company-wide quality improvement, and technology selection."
       }
     ],
     "skills": [
@@ -68,9 +77,10 @@
           "Smart Contract Development Lead",
           "Nuxt.js",
           "JavaScript",
-          "Solidity"
+          "Solidity",
+          "AWS"
         ],
-        "description": "The first Dapp Staking contract-based Wrapper Dapp on Astar chain, a GameFi project with a TVL of 500 million yen. Featured on Debunk.",
+        "description": "The first Dapp Staking contract on the Astar chain, a Wrapper Dapp for a GameFi project with a TVL of 500 million yen. Featured on Debunk.",
         "link": {
           "label": "astarfarm.com",
           "href": "https://astarfarm.com"
@@ -79,12 +89,13 @@
       {
         "title": "OasysHub",
         "techStack": [
-          "Frontend Development Lead",
+          "Front-end Development Lead",
           "Next.js",
           "TypeScript",
-          "Solidity"
+          "Solidity",
+          "Vercel"
         ],
-        "description": "Participated from the early stages in the development of Oasys, a blockchain specialized for games made in Japan, leading the development of the staking site frontend",
+        "description": "Participated in the development of the game-specific domestic blockchain Oasys from the early stages, leading the development of the staking site front-end.",
         "link": {
           "label": "hub.oasys.games",
           "href": "https://hub.oasys.games"
@@ -92,11 +103,42 @@
       },
       {
         "title": "MashiroAI NFT",
-        "techStack": ["Solo Developer", "Next.js", "TypeScript", "Solidity"],
-        "description": "In October 2022, at the start of the generative AI boom, developed a 1024-piece NFT project from scratch in two weeks using NovelAI. Released a collaboration NFT with Neo Tokyo Punks, Neo Tokyo Punks Memory, selling out all 2222 pieces.",
+        "techStack": [
+          "Solo Developer",
+          "Next.js",
+          "TypeScript",
+          "Solidity",
+          "Vercel"
+        ],
+        "description": "In October 2022, at the start of the generative AI boom, developed a 1024-piece NFT project in two weeks using NovelAI. Collaborated with Neo Tokyo Punks for the NFT, Neo Tokyo Punks Memory, selling out all 2222 pieces.",
         "link": {
           "label": "mashiroai.xyz",
           "href": "https://mashiroai.xyz"
+        }
+      },
+      {
+        "title": "Oas Jumbo!",
+        "techStack": [
+          "Smart Contract Development Lead",
+          "Next.js",
+          "TypeScript",
+          "Solidity",
+          "Foundry",
+          "AWS"
+        ],
+        "description": "Contract development for Buncha Inc. Wrapped the Oasys chain's Precompiled Staking contract in a DApp that awards lottery NFTs through staking. Reached a TVL of 200 million yen within 10 days of launch.",
+        "link": {
+          "label": "oasjumbo.com",
+          "href": "https://oasjumbo.com"
+        }
+      },
+      {
+        "title": "PSYCHO-PASS.ai",
+        "techStack": ["Tech Lead", "Next.js", "TypeScript", "Python", "AWS"],
+        "description": "An NFT x AI game project based on the anime PSYCHO-PASS. Purchasing a Dominator NFT allows you to play a hue diagnosis game, with the results reflected in your NFT. Playing the game earns hue points, which can be used to spin the NFT gacha.",
+        "link": {
+          "label": "psycho-pass.ai",
+          "href": "https://psycho-pass.ai"
         }
       }
     ]

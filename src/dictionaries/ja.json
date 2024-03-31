@@ -5,7 +5,7 @@
     "location": "東京, 日本",
     "locationLink": "https://www.google.com/maps/place/Tokyo",
     "about": "フルスタックエンジニア",
-    "summary": "神戸大学在学中に個人事業で生計を立てる。その後、Donutsバンコク支社でRubyメインのフルスタックエンジニアとしてインターン勤務。2019年にFringe81株式会社にエンジニアとして新卒入社。HRTech事業フロントエンドを純粋関数型言語Elmで保守運用、新規開発。2020年に広告事業へ異動し、広告配信システムのログ集計基盤責任者としてScalaでサーバーサイド/インフラの保守運用と新規開発。2021年6月にCryptoGames.incにフルスタックエンジニアとして参加し、同年11月にNFT事業開発リードに就任。2022年7月に同社のCTOに就任。現在はNuxt.js/Next.jsを用いたフロントエンド開発、TypeScript/Go/Pythonなどを用いたサーバーサイド開発、Solidityを用いたスマートコントラクト開発などを行っている。",
+    "summary": "北九州出身。関西・タイ経由東京住み。アニメ・Vtuberなどサブカル好き。サブカルの未来を創っていきたいです。現在はNuxt.js/Next.jsを用いたフロントエンド開発、TypeScript/Go/Pythonなどを用いたサーバーサイド開発、Solidityを用いたスマートコントラクト開発などを行っている。",
     "avatarUrl": "PixelPacy.src",
     "personalWebsiteUrl": "https://0xpacy.arweave.dev/",
     "contact": {
@@ -22,13 +22,22 @@
     ],
     "work": [
       {
+        "company": "神戸大学",
+        "link": "https://www.kobe-u.ac.jp/en/",
+        "badges": ["学生"],
+        "title": "経済学部",
+        "start": "2014",
+        "end": "2018",
+        "description": "マクロ経済の経済成長理論専攻。理論分析と並行してPythonのscikit-learnなどを用いて実証分析・統計的アプローチも従事。"
+      },
+      {
         "company": "Donutsバンコク支社",
-        "link": "Donutsバンコク支社のURL",
+        "link": "http://donuts-bkk.com/",
         "badges": ["インターン"],
         "title": "フルスタックエンジニア",
         "start": "2018",
         "end": "2018",
-        "description": "Rubyメインのフルスタックエンジニアとしてインターン勤務"
+        "description": "Rubyメインのフルスタックエンジニアとしてインターン。アプリとWebのうちWebのフロント・バックエンド・インフラ責任者として勤務。"
       },
       {
         "company": "Fringe81株式会社",
@@ -37,7 +46,7 @@
         "title": "フロントエンジニア → バックエンド/インフラエンジニア",
         "start": "2019",
         "end": "2021",
-        "description": "ARR億円単位のHRTech事業フロントエンドをElmで保守運用、新規開発。広告事業へ異動後は、年間取扱高10億円規模の広告配信システムのログ集計基盤責任者としてScalaでサーバーサイド/インフラ保守運用、新規開発"
+        "description": "ARR億円単位のHRTech事業フロントエンドをElmで保守運用、新規開発。広告事業へ異動後は、年間取扱高10億円規模のDocomo配信システムのログ集計基盤責任者としてScalaでサーバーサイド/インフラ保守運用、新規開発"
       },
       {
         "company": "CryptoGames.inc",
@@ -46,7 +55,7 @@
         "title": "フルスタックエンジニア → NFT事業開発リード → CTO",
         "start": "2021",
         "end": "現在",
-        "description": "NFTStudio開発、TV放送。Astar初のDapp Stakingを活用したGameFi、AstarFarmコントラクト開発。Oasysチェーンの開発に初期から参画、OasysHub立ち上げ。フロントエンド開発（Nuxt.js/Next.js）、サーバーサイド開発（TypeScript/Go/Python）、スマートコントラクト開発（Solidity）"
+        "description": "NFTStudio開発、TV放送。Astar初のDapp Stakingを活用したGameFi、AstarFarmコントラクト開発。Oasysチェーンの開発に初期から参画、OasysHub立ち上げ。その後、CTOとして炎上案件処理、中長期戦略立案、全社の品質改善、技術選定など。"
       }
     ],
     "skills": [
@@ -68,7 +77,8 @@
           "スマコン開発リード",
           "Nuxt.js",
           "JavaScript",
-          "Solidity"
+          "Solidity",
+          "AWS"
         ],
         "description": "Astarチェーン初のDapp Stakingコントラクトを使ったWrapper Dappであり、TVL5億円のGameFiプロジェクト。Debunkに掲載あり。",
         "link": {
@@ -82,7 +92,8 @@
           "フロント開発リード",
           "Next.js",
           "TypeScript",
-          "Solidity"
+          "Solidity",
+          "Vercel"
         ],
         "description": "Game特化国産ブロックチェーンOasysの開発に初期から参画、ステーキングサイトフロント開発リード",
         "link": {
@@ -96,12 +107,38 @@
           "ひとりでできるもん",
           "Next.js",
           "TypeScript",
-          "Solidity"
+          "Solidity",
+          "Vercel"
         ],
         "description": "生成AIブームが始まった2022年10月、NovelAIを使って1024体のNFTプロジェクトを2週間でスクラッチ開発。Neo Tokyo PunksとのコラボNFT、Neo Tokyo Punks Memoryを発売し、2222体完売。",
         "link": {
           "label": "mashiroai.xyz",
           "href": "https://mashiroai.xyz"
+        }
+      },
+      {
+        "title": "Oas Jumbo!",
+        "techStack": [
+          "スマコン開発リード",
+          "Next.js",
+          "TypeScript",
+          "Solidity",
+          "Foundry",
+          "AWS"
+        ],
+        "description": "Buncha社受託開発。OasysチェーンのPrecompiled Stakingコントラクトをラップした、ステーキングでくじnftがもらえるDApp。開始後10日でTVL2億円突破。",
+        "link": {
+          "label": "oasjumbo.com",
+          "href": "https://oasjumbo.com"
+        }
+      },
+      {
+        "title": "PSYCHO-PASS.ai",
+        "techStack": ["Techリード", "Next.js", "TypeScript", "Python", "AWS"],
+        "description": "アニメPSYCHO-PASSのNFT x AIゲームプロジェクト。ドミネーターNFTを購入すると色相診断ゲームがプレイできて、診断結果がNFTに反映される。ゲームプレイで色相ポイントがもらえて、色相ポイントを消費することでNFTガチャが回せる。",
+        "link": {
+          "label": "psycho-pass.ai",
+          "href": "https://psycho-pass.ai"
         }
       }
     ]
