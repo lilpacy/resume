@@ -22,13 +22,40 @@
     ],
     "work": [
       {
-        "company": "神戸大学",
-        "link": "https://www.kobe-u.ac.jp/en/",
-        "badges": ["学生"],
-        "title": "経済学部",
-        "start": "2014",
-        "end": "2018",
-        "description": "マクロ経済の経済成長理論専攻。理論分析と並行してPythonのscikit-learnなどを用いて実証分析・統計的アプローチも従事。"
+        "company": "Aniark Inc.",
+        "link": "https://corp.aniark.co/",
+        "badges": [],
+        "title": "CTO",
+        "start": "2025",
+        "end": "現在",
+        "description": "ジョイントベンチャーで新規立ち上げ、CTO就任。アニメスタジオや出版社向けのAIモデル、SaaSツールを開発・提供。"
+      },
+      {
+        "company": "CryptoAI Inc.",
+        "link": "https://cryptoai.co.jp/",
+        "badges": [],
+        "title": "CEO",
+        "start": "2023",
+        "end": "現在",
+        "description": "アニメ『PSYCHO-PASS』のIPを活用したNFT x AIゲームプロジェクトなどAIとCrypto跨ぐ領域での開発。"
+      },
+      {
+        "company": "CryptoGames Inc.",
+        "link": "https://cryptogames.co.jp/",
+        "badges": [],
+        "title": "フルスタックエンジニア → NFT事業開発リード → CTO",
+        "start": "2021",
+        "end": "2024",
+        "description": "NFTStudio開発、TV放送。Astar初のDapp Stakingを活用したGameFi、AstarFarmコントラクト開発。Oasysチェーンの開発に初期から参画、OasysHub立ち上げ。その後、CTOとして炎上案件処理、中長期戦略立案、全社の品質改善、技術選定など。"
+      },
+      {
+        "company": "Fringe81株式会社",
+        "link": "https://fringe81.com",
+        "badges": [],
+        "title": "フロントエンジニア → バックエンド/インフラエンジニア",
+        "start": "2019",
+        "end": "2021",
+        "description": "ARR億円単位のHRTech事業フロントエンドをElmで保守運用、新規開発。広告事業へ異動後は、年間取扱高10億円規模のDocomo配信システムのログ集計基盤責任者としてScalaでサーバーサイド/インフラ保守運用、新規開発。"
       },
       {
         "company": "Donutsバンコク支社",
@@ -40,22 +67,13 @@
         "description": "Rubyメインのフルスタックエンジニアとしてインターン。アプリとWebのうちWebのフロント・バックエンド・インフラ責任者として勤務。"
       },
       {
-        "company": "Fringe81株式会社",
-        "link": "https://fringe81.com",
-        "badges": [],
-        "title": "フロントエンジニア → バックエンド/インフラエンジニア",
-        "start": "2019",
-        "end": "2021",
-        "description": "ARR億円単位のHRTech事業フロントエンドをElmで保守運用、新規開発。広告事業へ異動後は、年間取扱高10億円規模のDocomo配信システムのログ集計基盤責任者としてScalaでサーバーサイド/インフラ保守運用、新規開発"
-      },
-      {
-        "company": "CryptoGames.inc",
-        "link": "https://cryptogames.co.jp/",
-        "badges": [],
-        "title": "フルスタックエンジニア → NFT事業開発リード → CTO",
-        "start": "2021",
-        "end": "現在",
-        "description": "NFTStudio開発、TV放送。Astar初のDapp Stakingを活用したGameFi、AstarFarmコントラクト開発。Oasysチェーンの開発に初期から参画、OasysHub立ち上げ。その後、CTOとして炎上案件処理、中長期戦略立案、全社の品質改善、技術選定など。"
+        "company": "神戸大学",
+        "link": "https://www.kobe-u.ac.jp/ja/",
+        "badges": ["学生"],
+        "title": "経済学部",
+        "start": "2014",
+        "end": "2018",
+        "description": "マクロ経済の経済成長理論専攻。理論分析と並行してPythonのscikit-learnなどを用いて実証分析・統計的アプローチも従事。"
       }
     ],
     "skills": [

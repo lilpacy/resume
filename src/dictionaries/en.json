@@ -22,22 +22,31 @@
     ],
     "work": [
       {
-        "company": "Kobe University",
-        "link": "https://www.kobe-u.ac.jp/en/",
-        "badges": ["Student"],
-        "title": "Faculty of Economics",
-        "start": "2014",
-        "end": "2018",
-        "description": "Specialized in economic growth theory in macroeconomics. Engaged in empirical analysis and statistical approaches using Python's scikit-learn alongside theoretical analysis."
+        "company": "Aniark Inc.",
+        "link": "https://corp.aniark.co/",
+        "badges": [],
+        "title": "CTO",
+        "start": "2025",
+        "end": "Present",
+        "description": "Launched a new joint venture and assumed the role of CTO. Developing and providing AI models and SaaS tools for anime studios and publishers."
       },
       {
-        "company": "Donuts Bangkok Branch",
-        "link": "http://donuts-bkk.com/",
-        "badges": ["Intern"],
-        "title": "Full Stack Engineer",
-        "start": "2018",
-        "end": "2018",
-        "description": "Interned as a full-stack engineer mainly using Ruby. Worked as the person in charge of front-end, back-end, and infrastructure for web applications."
+        "company": "CryptoAI Inc.",
+        "link": "https://cryptoai.co.jp/",
+        "badges": [],
+        "title": "CEO",
+        "start": "2023",
+        "end": "Present",
+        "description": "Developing projects spanning AI and Crypto, including an NFT x AI game project utilizing the anime 'PSYCHO-PASS' IP."
+      },
+      {
+        "company": "CryptoGames Inc.",
+        "link": "https://cryptogames.co.jp/",
+        "badges": [],
+        "title": "Full Stack Engineer → NFT Business Development Lead → CTO",
+        "start": "2021",
+        "end": "Present",
+        "description": "Developed NFTStudio and broadcasted by TV. Developed GameFi using Astar's first Dapp Staking, AstarFarm contract. Participated in the development of the Oasys chain from the early stages and launched OasysHub. Later, as CTO, handled crisis management, long-term strategy planning, company-wide quality improvement, and technology selection."
       },
       {
         "company": "Fringe81 Co., Ltd.",
@@ -49,13 +58,22 @@
         "description": "Maintained and developed new features for an HRTech business front-end with ARR in the millions of dollors using Elm. After transferring to the advertising business, took charge of the log aggregation infrastructure for a Docomo distribution system with an annual transaction volume of tens of millions of dollors, maintaining and developing new features in Scala for server-side/infrastructure."
       },
       {
-        "company": "CryptoGames.inc",
-        "link": "https://cryptogames.co.jp/",
-        "badges": [],
-        "title": "Full Stack Engineer → NFT Business Development Lead → CTO",
-        "start": "2021",
-        "end": "Present",
-        "description": "Developed NFTStudio and broadcasted by TV. Developed GameFi using Astar's first Dapp Staking, AstarFarm contract. Participated in the development of the Oasys chain from the early stages and launched OasysHub. Later, as CTO, handled crisis management, long-term strategy planning, company-wide quality improvement, and technology selection."
+        "company": "Donuts Bangkok Branch",
+        "link": "http://donuts-bkk.com/",
+        "badges": ["Intern"],
+        "title": "Full Stack Engineer",
+        "start": "2018",
+        "end": "2018",
+        "description": "Interned as a full-stack engineer mainly using Ruby. Worked as the person in charge of front-end, back-end, and infrastructure for web applications."
+      },
+      {
+        "company": "Kobe University",
+        "link": "https://www.kobe-u.ac.jp/en/",
+        "badges": ["Student"],
+        "title": "Faculty of Economics",
+        "start": "2014",
+        "end": "2018",
+        "description": "Specialized in economic growth theory in macroeconomics. Engaged in empirical analysis and statistical approaches using Python's scikit-learn alongside theoretical analysis."
       }
     ],
     "skills": [
