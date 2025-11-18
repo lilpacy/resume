@@ -1,0 +1,14 @@
+{
+  "name": "Resume Project",
+  "dockerComposeFile": "../docker-compose.yaml",
+  "service": "app",
+  "workspaceFolder": "/usr/src/app",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+      ],
+      "settings": {
+      }
+    }
+  }
+}
