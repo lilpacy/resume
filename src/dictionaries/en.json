@@ -90,48 +90,12 @@
     ],
     "projects": [
       {
-        "title": "AstarFarm",
-        "techStack": [
-          "Smart Contract Development Lead",
-          "Nuxt.js",
-          "JavaScript",
-          "Solidity",
-          "AWS"
-        ],
-        "description": "The first Dapp Staking contract on the Astar chain, a Wrapper Dapp for a GameFi project with a TVL of 5 million dollor. Featured on Debunk.",
+        "title": "PSYCHO-PASS.ai",
+        "techStack": ["Tech Lead", "Next.js", "TypeScript", "Python", "AWS"],
+        "description": "An NFT x AI game project based on the anime PSYCHO-PASS. Purchasing a Dominator NFT allows you to play a hue diagnosis game, with the results reflected in your NFT. Playing the game earns hue points, which can be used to spin the NFT gacha.",
         "link": {
-          "label": "astarfarm.com",
-          "href": "https://astarfarm.com"
-        }
-      },
-      {
-        "title": "OasysHub",
-        "techStack": [
-          "Front-end Development Lead",
-          "Next.js",
-          "TypeScript",
-          "Solidity",
-          "Vercel"
-        ],
-        "description": "Participated in the development of the game-specific domestic blockchain Oasys from the early stages, leading the development of the staking site front-end.",
-        "link": {
-          "label": "hub.oasys.games",
-          "href": "https://hub.oasys.games"
-        }
-      },
-      {
-        "title": "MashiroAI NFT",
-        "techStack": [
-          "Solo Developer",
-          "Next.js",
-          "TypeScript",
-          "Solidity",
-          "Vercel"
-        ],
-        "description": "In October 2022, at the start of the generative AI boom, developed a 1024-piece NFT project in two weeks using NovelAI. Collaborated with Neo Tokyo Punks for the NFT, Neo Tokyo Punks Memory, selling out all 2222 pieces.",
-        "link": {
-          "label": "mashiroai.xyz",
-          "href": "https://mashiroai.xyz"
+          "label": "psycho-pass.ai",
+          "href": "https://psycho-pass.ai"
         }
       },
       {
@@ -151,12 +115,48 @@
         }
       },
       {
-        "title": "PSYCHO-PASS.ai",
-        "techStack": ["Tech Lead", "Next.js", "TypeScript", "Python", "AWS"],
-        "description": "An NFT x AI game project based on the anime PSYCHO-PASS. Purchasing a Dominator NFT allows you to play a hue diagnosis game, with the results reflected in your NFT. Playing the game earns hue points, which can be used to spin the NFT gacha.",
+        "title": "MashiroAI NFT",
+        "techStack": [
+          "Solo Developer",
+          "Next.js",
+          "TypeScript",
+          "Solidity",
+          "Vercel"
+        ],
+        "description": "In October 2022, at the start of the generative AI boom, developed a 1024-piece NFT project in two weeks using NovelAI. Collaborated with Neo Tokyo Punks for the NFT, Neo Tokyo Punks Memory, selling out all 2222 pieces.",
         "link": {
-          "label": "psycho-pass.ai",
-          "href": "https://psycho-pass.ai"
+          "label": "mashiroai.xyz",
+          "href": "https://mashiroai.xyz"
+        }
+      },
+      {
+        "title": "OasysHub",
+        "techStack": [
+          "Front-end Development Lead",
+          "Next.js",
+          "TypeScript",
+          "Solidity",
+          "Vercel"
+        ],
+        "description": "Participated in the development of the game-specific domestic blockchain Oasys from the early stages, leading the development of the staking site front-end.",
+        "link": {
+          "label": "hub.oasys.games",
+          "href": "https://hub.oasys.games"
+        }
+      },
+      {
+        "title": "AstarFarm",
+        "techStack": [
+          "Smart Contract Development Lead",
+          "Nuxt.js",
+          "JavaScript",
+          "Solidity",
+          "AWS"
+        ],
+        "description": "The first Dapp Staking contract on the Astar chain, a Wrapper Dapp for a GameFi project with a TVL of 5 million dollor. Featured on Debunk.",
+        "link": {
+          "label": "astarfarm.com",
+          "href": "https://astarfarm.com"
         }
       }
     ]

@@ -90,48 +90,12 @@
     ],
     "projects": [
       {
-        "title": "AstarFarm",
-        "techStack": [
-          "スマコン開発リード",
-          "Nuxt.js",
-          "JavaScript",
-          "Solidity",
-          "AWS"
-        ],
-        "description": "Astarチェーン初のDapp Stakingコントラクトを使ったWrapper Dappであり、TVL5億円のGameFiプロジェクト。Debunkに掲載あり。",
+        "title": "PSYCHO-PASS.ai",
+        "techStack": ["Techリード", "Next.js", "TypeScript", "Python", "AWS"],
+        "description": "アニメPSYCHO-PASSのNFT x AIゲームプロジェクト。ドミネーターNFTを購入すると色相診断ゲームがプレイできて、診断結果がNFTに反映される。ゲームプレイで色相ポイントがもらえて、色相ポイントを消費することでNFTガチャが回せる。",
         "link": {
-          "label": "astarfarm.com",
-          "href": "https://astarfarm.com"
-        }
-      },
-      {
-        "title": "OasysHub",
-        "techStack": [
-          "フロント開発リード",
-          "Next.js",
-          "TypeScript",
-          "Solidity",
-          "Vercel"
-        ],
-        "description": "Game特化国産ブロックチェーンOasysの開発に初期から参画、ステーキングサイトフロント開発リード",
-        "link": {
-          "label": "hub.oasys.games",
-          "href": "https://hub.oasys.games"
-        }
-      },
-      {
-        "title": "MashiroAI NFT",
-        "techStack": [
-          "ひとりでできるもん",
-          "Next.js",
-          "TypeScript",
-          "Solidity",
-          "Vercel"
-        ],
-        "description": "生成AIブームが始まった2022年10月、NovelAIを使って1024体のNFTプロジェクトを2週間でスクラッチ開発。Neo Tokyo PunksとのコラボNFT、Neo Tokyo Punks Memoryを発売し、2222体完売。",
-        "link": {
-          "label": "mashiroai.xyz",
-          "href": "https://mashiroai.xyz"
+          "label": "psycho-pass.ai",
+          "href": "https://psycho-pass.ai"
         }
       },
       {
@@ -151,12 +115,48 @@
         }
       },
       {
-        "title": "PSYCHO-PASS.ai",
-        "techStack": ["Techリード", "Next.js", "TypeScript", "Python", "AWS"],
-        "description": "アニメPSYCHO-PASSのNFT x AIゲームプロジェクト。ドミネーターNFTを購入すると色相診断ゲームがプレイできて、診断結果がNFTに反映される。ゲームプレイで色相ポイントがもらえて、色相ポイントを消費することでNFTガチャが回せる。",
+        "title": "MashiroAI NFT",
+        "techStack": [
+          "ひとりでできるもん",
+          "Next.js",
+          "TypeScript",
+          "Solidity",
+          "Vercel"
+        ],
+        "description": "生成AIブームが始まった2022年10月、NovelAIを使って1024体のNFTプロジェクトを2週間でスクラッチ開発。Neo Tokyo PunksとのコラボNFT、Neo Tokyo Punks Memoryを発売し、2222体完売。",
         "link": {
-          "label": "psycho-pass.ai",
-          "href": "https://psycho-pass.ai"
+          "label": "mashiroai.xyz",
+          "href": "https://mashiroai.xyz"
+        }
+      },
+      {
+        "title": "OasysHub",
+        "techStack": [
+          "フロント開発リード",
+          "Next.js",
+          "TypeScript",
+          "Solidity",
+          "Vercel"
+        ],
+        "description": "Game特化国産ブロックチェーンOasysの開発に初期から参画、ステーキングサイトフロント開発リード",
+        "link": {
+          "label": "hub.oasys.games",
+          "href": "https://hub.oasys.games"
+        }
+      },
+      {
+        "title": "AstarFarm",
+        "techStack": [
+          "スマコン開発リード",
+          "Nuxt.js",
+          "JavaScript",
+          "Solidity",
+          "AWS"
+        ],
+        "description": "Astarチェーン初のDapp Stakingコントラクトを使ったWrapper Dappであり、TVL5億円のGameFiプロジェクト。Debunkに掲載あり。",
+        "link": {
+          "label": "astarfarm.com",
+          "href": "https://astarfarm.com"
         }
       }
     ]
