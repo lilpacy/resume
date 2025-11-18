@@ -9,6 +9,7 @@ import { Button } from "@/components/ui/button";
 import { constants } from "@/constants";
 import { ProjectCard } from "@/components/project-card";
 import { Language, getDictionary } from "./dictionaries";
+import { LanguageSwitcher } from "@/components/language-switcher";
 
 type Props = {
   params: {
@@ -30,6 +31,9 @@ export default async function Page({ params }: Props) {
   const dict = await getDictionary(params.lang);
   return (
     <main className="container relative mx-auto scroll-my-12 overflow-auto p-4 print:p-12 md:p-16">
+      <div className="absolute right-4 top-4 z-10 print:hidden">
+        <LanguageSwitcher />
+      </div>
       <section className="mx-auto w-full max-w-2xl space-y-8 bg-white print:space-y-6">
         <div className="flex items-center justify-between">
           <div className="flex-1 space-y-1.5">
