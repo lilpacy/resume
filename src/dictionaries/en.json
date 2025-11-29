@@ -28,7 +28,7 @@
         "title": "CTO",
         "start": "2025",
         "end": "Present",
-        "description": "Launched a new joint venture and assumed the role of CTO. Developing and providing AI models and SaaS tools for anime studios and publishers."
+        "description": "Launched a new joint venture and assumed the role of CTO. Developing and providing AI models and SaaS tools for anime studios and publishers. In addition to CTO responsibilities, handling a wide range of tasks including client visits and interviews, product planning, product strategy formulation, UI/UX design, PO, PM, QA, and implementation when needed."
       },
       {
         "company": "CryptoAI Inc.",
@@ -37,7 +37,7 @@
         "title": "CEO",
         "start": "2023",
         "end": "Present",
-        "description": "Developing projects spanning AI and Crypto, including an NFT x AI game project utilizing the anime 'PSYCHO-PASS' IP."
+        "description": "Developing projects spanning AI and Crypto, including an NFT x AI game project utilizing the anime 'PSYCHO-PASS' IP. Implemented almost all infrastructure, front-end, and server-side development. As the workload became too much for one person, started hiring multiple contract engineers and also handling project management including schedule management, task management, and QA."
       },
       {
         "company": "CryptoGames Inc.",
@@ -60,7 +60,9 @@
       {
         "company": "Donuts Bangkok Branch",
         "link": "http://donuts-bkk.com/",
-        "badges": ["Intern"],
+        "badges": [
+          "Intern"
+        ],
         "title": "Full Stack Engineer",
         "start": "2018",
         "end": "2018",
@@ -69,7 +71,9 @@
       {
         "company": "Kobe University",
         "link": "https://www.kobe-u.ac.jp/en/",
-        "badges": ["Student"],
+        "badges": [
+          "Student"
+        ],
         "title": "Faculty of Economics",
         "start": "2014",
         "end": "2018",
@@ -91,7 +95,13 @@
     "projects": [
       {
         "title": "PSYCHO-PASS.ai",
-        "techStack": ["Tech Lead", "Next.js", "TypeScript", "Python", "AWS"],
+        "techStack": [
+          "Tech Lead",
+          "Next.js",
+          "TypeScript",
+          "Python",
+          "AWS"
+        ],
         "description": "An NFT x AI game project based on the anime PSYCHO-PASS. Purchasing a Dominator NFT allows you to play a hue diagnosis game, with the results reflected in your NFT. Playing the game earns hue points, which can be used to spin the NFT gacha.",
         "link": {
           "label": "psycho-pass.ai",
